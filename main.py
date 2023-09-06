@@ -27,7 +27,7 @@ while running:
         os.system('cls')
         print("Stap maar in!")
         print(coasterimg.get())
-        time.sleep(2)
+        time.sleep(3)
 
     else:
         os.system('cls')
